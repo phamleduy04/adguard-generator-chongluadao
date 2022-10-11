@@ -1,0 +1,16 @@
+name: upload
+on:
+  schedule:
+    - '0 */6 * * *'
+jobs:
+  upload:
+    runs-on: 'ubuntu-latest'
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v2
+      - uses: zcong1993/setup-timezone@master
+        with:
+          timezone: America/Chicago
+      - run: npm run start
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
