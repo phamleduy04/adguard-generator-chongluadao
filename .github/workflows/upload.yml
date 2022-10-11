@@ -1,5 +1,7 @@
 name: upload
 on:
+  push:
+    branches: ['main']
   schedule:
     - '0 */6 * * *'
 jobs:
