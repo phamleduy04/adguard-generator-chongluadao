@@ -1,5 +1,5 @@
 name: upload
-'on':
+on:
   push:
     branches:
       - main
@@ -16,4 +16,4 @@ jobs:
           timezone: America/Chicago
       - run: npm run start
         env:
-          GH_TOKEN: '${{ secrets.GH_TOKEN }}'
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
