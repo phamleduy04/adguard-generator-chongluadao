@@ -1703,6 +1703,8 @@
 ||binzdapoet.vn$all
 ||blockchainunion.vn$all
 ||dx.gov.vn$all
+||dancuquocgia.gov.vn$all
+||vneid.gov.vn$all
 ||chrome.google.com$all
 ||vnhacker.blogspot.com$all
 ||corona.kompa.ai$all
