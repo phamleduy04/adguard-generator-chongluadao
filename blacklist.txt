@@ -2252,7 +2252,6 @@
 ||sinh5.com$all
 ||khohangdocvip.net$all
 ||leonbit.biz$all
-||litefinance-vi.com$all
 ||meeyinvest.com$all
 ||meeyland.org$all
 ||meeyland.net$all
