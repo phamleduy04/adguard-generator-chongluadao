@@ -467,7 +467,6 @@
 ||bhiu.edu.vn$all
 ||bhxhtphcm.gov.vn$all
 ||bidc.vn$all
-||binance.com$all
 ||bing.com$all
 ||binhdinh.gov.vn$all
 ||binhduong.gov.vn$all
@@ -1705,6 +1704,7 @@
 ||dx.gov.vn$all
 ||dancuquocgia.gov.vn$all
 ||vneid.gov.vn$all
+||cic.org.vn$all
 ||chrome.google.com$all
 ||vnhacker.blogspot.com$all
 ||corona.kompa.ai$all
