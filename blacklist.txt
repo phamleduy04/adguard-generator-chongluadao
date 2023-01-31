@@ -7151,7 +7151,6 @@
 ||ku1vnn.net$all
 ||wxqq88.com$all
 ||12338.com$all
-||vtmarkets.com$all
 ||bit-spot.com$all
 ||kucoinusz.com$all
 ||lfmsecure.com$all
@@ -14296,7 +14295,6 @@
 ||vnpggroup.com$all
 ||vnpgroupp.com$all
 ||newdong11.pw$all
-||zfx.com$all
 ||startrader.com$all
 ||easblocker.com$all
 ||amazon22.top$all
