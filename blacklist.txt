@@ -15296,7 +15296,6 @@
 ||wavecapitals.com$all
 ||gkfxprimekr.com$all
 ||gkpartnersportal.com$all
-||gkg.com$all
 ||rongdo.live$all
 ||evean.online$all
 ||oiuionb.com$all
