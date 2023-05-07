@@ -636,7 +636,6 @@
 ||chn.edu.vn$all
 ||chodientu.vn$all
 ||chongiadung.com$all
-||chongscam.vn$all
 ||choray.vn$all
 ||chotot.vn$all
 ||cic.edu.vn$all
