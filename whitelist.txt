@@ -316,7 +316,6 @@
 ||tongcucthuysan.gov.vn$all
 ||toytheater.com$all
 ||tphcm.gov.vn$all
-||tradingview.com$all
 ||google.co.jp$all
 ||tryhackme.com$all
 ||ttbc-hcm.gov.vn$all
