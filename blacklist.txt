@@ -3493,7 +3493,6 @@
 ||khophanmem24h.com$all
 ||khuyenkhichsangtaoviet.net$all
 ||leanhtien.net$all
-||letuan.edu.vn$all
 ||listnhacai.com$all
 ||lucdiahoanmy.vn$all
 ||ngoahotanglong.vn$all
