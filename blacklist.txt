@@ -16796,3 +16796,5 @@
 ||riotbweb.com$all
 ||ticketbox.tv$all
 ||dichvucongbaohiemxahoi.com$all
+||hdsaisonvay.com$all
+||hdssfn.online$all
